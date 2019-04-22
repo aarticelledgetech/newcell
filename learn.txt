@@ -1,0 +1,9 @@
+I)installation command
+    1) composer create-project --prefer-dist laravel/laravel celledgenew
+
+II)how to run laravel
+    http://localhost/celledgenew/public/ ----> index file present in public folder
+
+III)Laravel in Hindi : How to remove " public " word from the URL in laravel framework
+        Step 1: Cut paste http://localhost/celledgenew/public/.htaccess from public folder to http://localhost/celledgenew/.htaccess root project folder
+        Step 2: Rename http://localhost/celledgenew/server.php to http://localhost/celledgenew/index.php
